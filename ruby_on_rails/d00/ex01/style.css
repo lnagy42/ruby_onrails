@@ -1,0 +1,44 @@
+/* general */
+
+body {
+	background-color: lightsteelblue;
+}
+
+/* top of the page */
+
+div.title {
+	border: solid blue;
+	vertical-align: top;
+	text-align: center;
+}
+
+.profil {
+	text-align: center;
+}
+
+h1.profil {
+	display: inline-block;
+	border: solid cyan;
+}
+
+div.profil {
+	content: url(https://itsmygamemyrules.files.wordpress.com/2015/04/screen-shot-2015-04-07-at-12-51-34.png);
+	border: solid 1px red;
+	display: inline-block;
+	float: left;
+	/*margin-top: 2%;*/
+	max-width: 8%;
+	height: auto;
+	/*vertical-align: middle;*/
+}
+
+
+/* skills */
+
+.skills {
+}
+
+/* training */
+
+.training {
+}
