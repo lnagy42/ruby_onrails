@@ -1,0 +1,33 @@
+/* general */
+
+div {
+	border: solid 1px black;
+}
+
+/* top of the page */
+
+.title {
+	text-align: center;
+}
+
+.profil {
+	width: 200px;
+	height: 200px;
+}
+
+img {
+	float: left;
+	max-width: 100%;
+	height: auto;
+}
+
+
+/* skills */
+
+.skills {
+}
+
+/* training */
+
+.training {
+}
