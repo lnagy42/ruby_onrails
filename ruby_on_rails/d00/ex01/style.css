@@ -7,38 +7,54 @@ body {
 /* top of the page */
 
 div.title {
-	border: solid blue;
 	vertical-align: top;
 	text-align: center;
 }
 
-.profil {
-	text-align: center;
-}
 
-h1.profil {
+h1 {
 	display: inline-block;
-	border: solid cyan;
 }
 
-div.profil {
+.image {
 	content: url(https://itsmygamemyrules.files.wordpress.com/2015/04/screen-shot-2015-04-07-at-12-51-34.png);
-	border: solid 1px red;
-	display: inline-block;
 	float: left;
-	/*margin-top: 2%;*/
 	max-width: 8%;
 	height: auto;
-	/*vertical-align: middle;*/
+	margin-top: 2em;
+	margin-left: 4em;
+}
+
+p {
+	margin: auto;
 }
 
 
 /* skills */
 
-.skills {
+.skills{
+	background: grey;
+	margin-left: 25em;
+	width: fit-content;
+	display: inline-block;
+}
+
+table {
+	border-spacing: 1.5em;
+	margin-top: 5em;
+	height: 35%;
+}
+
+caption {
+	font-family: helvetica;
+	font-size: xx-large;
+	position: top;
 }
 
 /* training */
 
 .training {
+	display: inline-block;
+	background-color: blue;
+	margin-left: 35em;
 }
