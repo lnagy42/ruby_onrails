@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<style> 
+	body {
+	background-color: lightsteelblue;
+	font-family: helvetica;
+	text-align: center;}
+
+	h2 {
+		font-size: xx-large;
+		font-weight: thin;
+	}
+	
+	.skills, .training, .formation {
+		display: inline-block;
+		width: 30em;
+	}
+	
+	/* top of the page */
+	
+	div.title {
+		vertical-align: top;
+		text-align: center;
+	}
+	
+	
+	h1 {
+		display: inline-block;
+	}
+	
+	.image {
+		content: url(https://itsmygamemyrules.files.wordpress.com/2015/04/screen-shot-2015-04-07-at-12-51-34.png);
+		float: left;
+		max-width: 8%;
+		height: auto;
+		margin-top: 2em;
+		margin-left: 4em;
+	}
+	
+	p {
+		margin: auto;
+	}
+	
+	
+	/* skills */
+	
+	.skills{
+		background: orange;
+	}
+	
+	ul {
+		list-style-type: none;
+	}
+	
+	/* formation */
+	
+	.formation {
+		background-color: aquamarine;
+	}
+	
+	table,td, th {
+		height: 35%;
+		border: solid red 1px;
+		text-align: center;
+	}
+	
+	caption {
+		font-size: xx-large;
+	}
+	
+	/* jobs */
+	
+	.training {
+		background-color: springgreen; 
+	}
+	</style>
+
+	<title>C.V. Lea Nagy</title>
+</head>
+	<body>
+		<div class="title">
+			<div class="image"></div>
+			<h1>Léa Nagy <br />Développeur</h1>
+			<p>mi-dév mi-po sortant de 42 prête à en découdre !</p>
+		</div>
+
+		<div class="formation">
+			<h2>Formation</h2>
+			<table id="train" style="border-collapse: collapse;">
+					<tr>
+						<th>Year</th>
+						<th>Subject</th>
+						<th>Name</th>
+					</tr>
+				<tbody>
+					<tr>
+						<td>2010-2011</td>
+						<td>Photography</td>
+						<td>ETPA</td>
+					</tr>
+					<tr>
+						<td>2011-2015</td>
+						<td>Neuropsychology</td>
+						<td>Paris X University</td>
+					</tr>
+					<tr>
+						<td>since 2016</td>
+						<td>Developpment</td>
+						<td bgcolor="#424242">42 School France</td>
+					</tr>
+					
+				</tbody>
+			</table>
+		</div>
+		
+		<div class="skills">
+			<ul>
+				<h2>Skills</h2>
+				<li>Human communication facilitator</li>
+				<li>C language</li>
+				<li>Product Owner</li>
+			</ul>
+		</div>
+
+		<div class="training">
+				<ol>
+			<h2>Training</h2>
+						<li>Neuropsychology internship at PHP Avicenne</li>
+						<li>Product Owner Internship at NetConsult</li>
+				</ol>
+
+		</div>
+	</body>
+</html>
+
