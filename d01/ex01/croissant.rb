@@ -1,4 +1,4 @@
-class Tableau
+def my_tab
 	arr = []
 	File.open("numbers.txt").each do |line|
 	line.slice!(",")
@@ -8,6 +8,7 @@ class Tableau
 	end
 	arr = arr.sort!
 	puts arr
-
 end
+
+my_tab
 
