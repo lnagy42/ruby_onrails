@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class Html
   attr_reader :page_name
 
@@ -46,12 +48,11 @@ class Html
   end
 end
 
-
   if $PROGRAM_NAME == __FILE__
     a = Html.new("test")
     a.dump("str")
     a.finish
-    a.finish
+    a.dump("lol")
   end
 
   if $PROGRAM_NAME == __FILE__
@@ -59,14 +60,3 @@ end
     a.dump("titi")
     a.finish
   end
-  if $PROGRAM_NAME == __FILE__
-    a = Html.new("test")
-    a.finish
-    a.dump("titi")
-  end
-  if $PROGRAM_NAME == __FILE__
-    a = Html.new("test")
-    a.dump("titi")
-    a.finish
-  end
-

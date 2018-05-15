@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def whereto
 
 	states = {
@@ -12,13 +14,15 @@ def whereto
 		"NJ" => "Trenton",
 		"CO" => "Denver"
 	}
- 	argv = ARGV[0].split(",")
+
 	if ARGV.length > 10 || ARGV.length == 0
 		exit
-	end  
-	
+	end
+	argv = ARGV[0].split(",")
 	argv.each do |str|
 	str = str.strip.capitalize
+
+
 	if str == states.key(states.fetch(str, true))
 		puts "#{capitals_cities.fetch(states.fetch(str))} is the capital of #{states.key(states.fetch(str))} (akr: #{states.fetch(str)})"
 	elsif capitals_cities.has_value?(str) == true

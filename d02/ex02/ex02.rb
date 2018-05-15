@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class Dup_file < StandardError
   def show_state(filename)
     puts "A file named #{filename}.html already exist there: #{File.expand_path(filename)}.html"
@@ -101,11 +103,20 @@ class Html
   end
 end
 
+#
+# if $PROGRAM_NAME == __FILE__
+#   a = Html.new("test")
+#   a = Html.new("test")
+#   a.dump("je marche")
+#   a.finish
+#   a.dump("je marche")
+# end
 
 if $PROGRAM_NAME == __FILE__
   a = Html.new("test")
   a.dump("je marche")
+  a.dump("je marchouillle")
   a.finish
-  a.dump("je marche")
+  a.finish
 end
 

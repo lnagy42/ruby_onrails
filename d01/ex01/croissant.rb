@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def my_tab
 	arr = []
 	File.open("numbers.txt").each do |line|

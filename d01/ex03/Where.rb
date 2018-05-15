@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def where_am_i
 	
 	states = {
@@ -13,11 +15,10 @@ def where_am_i
 		  "CO" => "Denver"
 	}
 
-	input_array = ARGV
 	if ARGV.length > 1 || ARGV.length == 0
 		exit
 	end
-	if ARGV[0] == states.key(states.fetch(ARGV[0], tru ))
+	if ARGV[0] == states.key(states.fetch(ARGV[0], true))
 		puts capitals_cities.fetch(states.fetch(ARGV[0]))
 	else
 		puts "Unknown state"

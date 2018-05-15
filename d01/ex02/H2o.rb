@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def my_hash
 	data = [['Caleb'    , 24],
 		        ['Calixte'  , 84],

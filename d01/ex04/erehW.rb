@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def erehw
 	states = {
 		"Oregon"     => "OR",
@@ -12,7 +14,6 @@ def erehw
 		"CO" => "Denver"
 	}
 
-	input_array = ARGV
 	if ARGV.length > 1 || ARGV.length == 0
 		exit
 	end

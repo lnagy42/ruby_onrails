@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class Html
 	attr_reader :page_name
 	def initialize (html)
@@ -23,6 +25,7 @@ class Html
 		end
 	end
 end
+
 if $PROGRAM_NAME == __FILE__
 	a = Html.new("test")
 	10.times{|x| a.dump("titi_number#{x}")}
