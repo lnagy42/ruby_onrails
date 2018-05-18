@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'Deepthought'
-a = Deepthought.new
-a.respond("bubu")
