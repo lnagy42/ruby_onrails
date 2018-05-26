@@ -4,7 +4,10 @@
     <shared />
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/d04/CheatSheet2/HelloWorld/tmp/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/d04/CheatSheet2/tmp/cache" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="deepthought (v0.1.0, RVM: ruby-2.3.0) [gem]" level="application" />
