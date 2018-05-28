@@ -7,6 +7,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/d04/CheatSheet2/HelloWorld/tmp/cache" />
       <excludeFolder url="file://$MODULE_DIR$/d04/CheatSheet2/tmp/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/d04/ex01/NewCheatSheet/tmp/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/d04/ex02/CheatSheet/tmp/cache" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
