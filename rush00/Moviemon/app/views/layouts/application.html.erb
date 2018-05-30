@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moviemon</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<div id="gameboy">
+  <div id="top">
+    <div id="thingy">
+      <div id="offon">
+        <a href="./">◀Off</a>
+        <span style="color: black">•</span>
+        <a href="./titlescreen">On▶</a>
+      </div>
+    </div>
+  </div>
+  <div id="screenborder">
+    <span id="dotmatrix">Dot Matrix with Stereo Sound</span>
+    <div id="display">
+        <%= yield %>
+    </div>
+  </div>
+  <header>
+    <span>Nintendo</span><span>Game Boy</span><span>TM</span>
+  </header>
+  <div id="dpad">
+    <div></div>
+  </div>
+  <div id="ba"></div>
+  <div id="select-btn"></div>
+    <a href="./worldmap">
+  <div id="start-btn"></div>
+    </a>
+  <ul id="speakers">
+    <li><li><li><li><li><li>
+  </ul>
+  <div id="phones">
+    <span>Phones</span>
+  </div>
+</div>
+
+
+</body>
+</html>
