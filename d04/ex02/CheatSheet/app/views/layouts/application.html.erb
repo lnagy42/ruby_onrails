@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <!--<title>NewCheatSheet</title>-->
-    <title><%= yield :title %></title>
-    <%= csrf_meta_tags %>
-    <%= csp_meta_tag %>
-
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-    <link rel="application" type="text/css" href="stylesheets/application.css" media="screen">
-  </head>
-  <body>
-  <div class="container">
+<head>
+  <title><%= yield :title %></title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<div class="container">
 
   <nav>
     <div class="navbar navbar-fixed-top navbar-default"><div class="navbar-header"><a href="./" class="navbar-brand cheat-sheet-brand">Rails Beginner Cheat Sheet</a></div>
@@ -19,7 +15,7 @@
       <ul class="nav navbar-nav">
         <li><a href="./convention">Convention</a></li>
         <li><a href="./console">Console</a></li>
-        <li><a href="./quicksearch">Quick Search</a></li>
+        <li><a href="./quick-search">Quick Search</a></li>
         <li class="dropdown">
           <a href="./ruby" class="dropdown-toggle"><b class="caret"></b> Ruby</a>
           <ul class="dropdown-menu">
@@ -43,14 +39,14 @@
       </ul>
     </div>
   </nav>
-  </div>
+</div>
 
-  <div id="content-wrapper">
-    <div class="container ">
-      <section id="main-content">
-        <%= yield %>
-      </section>
-    </div>
+<div id="content-wrapper">
+  <div class="container ">
+    <section id="main-content">
+      <%= yield %>
+    </section>
   </div>
-  </body>
+</div>
+</body>
 </html>
