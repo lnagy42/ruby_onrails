@@ -12,5 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require dataTables/jquery.dataTables
 //= require turbolinks
 //= require_tree .
+
+$(document).ready(function(){
+    var a = $('.table-striped').DataTable();
+});
