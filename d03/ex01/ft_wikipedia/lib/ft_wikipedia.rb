@@ -13,7 +13,7 @@ module FtWikipedia
   @@count_link = 0
   @@links_met = []
 
-  def self.search_word(str)
+  def self.search(str)
     doc = Nokogiri::HTML(open("https://wikipedia.org/wiki/" + str))
     search_link = doc.css('.mw-parser-output').css('p').css('a[href]:not([title^=Help])')
     arr = Array.new
@@ -65,10 +65,10 @@ module FtWikipedia
     else
       @@count_link += 1
       puts "https://wikipedia.org#{arr[0]}"
-      return FtWikipedia.search_word(arr[0].split("/")[2])
+      return FtWikipedia.search(arr[0].split("/")[2])
     end
   end
 end
 
 
-FtWikipedia.search_word('love')
+FtWikipedia.search('love')
