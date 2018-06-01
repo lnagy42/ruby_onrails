@@ -1,8 +1,20 @@
 Rails.application.routes.draw do
-  root 'moviemon#gameboy'
-  get 'gameboy' => 'moviemon#gameboy'
+  root 'moviemon#shutdownscreen'
   get 'titlescreen' => 'moviemon#titlescreen'
   get 'worldmap' => 'moviemon#worldmap'
+
+  # input
+  get '/power' => 'moviemon#power'
+  get '/up' => 'moviemon#up'
+  get '/down' => 'moviemon#down'
+  get '/right' => 'moviemon#right'
+  get '/left' => 'moviemon#left'
+  get '/select' => 'moviemon#select'
+  get '/start' => 'moviemon#start'
+  get '/buttonA' => 'moviemon#buttonA'
+  get '/buttonB' => 'moviemon#buttonB'
+  #
+  # root 'moviemon#power'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -2,193 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b59e535-c0a8-4de5-980e-91d1f4c2d7b5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/channels/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/fixtures/files/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/system/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/tmp/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/vendor/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/.ruby-version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/config/manifest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/cable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/welcome.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/stylesheets/welcome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/controllers/welcome_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/helpers/welcome_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/jobs/application_job.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/mailers/application_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/layouts/mailer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/layouts/mailer.text.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/console.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/convention.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/editor.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/help.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/quick_search.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/rails.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/rails_commands.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/rails_erb.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/rails_folder_structure.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/ruby.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/ruby_arrays.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/ruby_concept.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/ruby_hashes.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/ruby_numbers.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/ruby_strings.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/spring" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/update" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/bin/yarn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/cable.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/credentials.yml.enc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/application_controller_renderer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/assets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/content_security_policy.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/cookies_serializer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/puma.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/spring.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/config/storage.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/application_system_test_case.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/controllers/welcome_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d04/ex02/CheatSheet/test/test_helper.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/views/welcome/index.html.erb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/.gitignore" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/.ruby-version" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/.ruby-version" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/Gemfile" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/Gemfile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/Gemfile.lock" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/Gemfile.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/README.md" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/Rakefile" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/Rakefile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/config/manifest.js" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/config/manifest.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/images/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/images/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/javascripts/application.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/javascripts/cable.js" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/javascripts/cable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/javascripts/channels/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/javascripts/channels/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/javascripts/welcome.coffee" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/javascripts/welcome.coffee" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/stylesheets/application.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/assets/stylesheets/welcome.scss" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/assets/stylesheets/welcome.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/channels/application_cable/channel.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/channels/application_cable/channel.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/channels/application_cable/connection.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/channels/application_cable/connection.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/controllers/application_controller.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/controllers/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/controllers/welcome_controller.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/controllers/welcome_controller.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/helpers/application_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/helpers/welcome_helper.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/helpers/welcome_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/jobs/application_job.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/jobs/application_job.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/mailers/application_mailer.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/mailers/application_mailer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/models/application_record.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/models/application_record.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/models/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/views/layouts/application.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/views/layouts/mailer.html.erb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/views/layouts/mailer.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/app/views/layouts/mailer.text.erb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/views/layouts/mailer.text.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/bundle" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/bundle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/rails" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/rails" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/rake" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/rake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/setup" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/setup" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/spring" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/spring" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/update" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/update" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/bin/yarn" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/bin/yarn" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config.ru" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config.ru" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/application.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/application.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/boot.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/boot.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/cable.yml" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/cable.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/credentials.yml.enc" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/credentials.yml.enc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/database.yml" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/database.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/environment.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/environment.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/environments/development.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/environments/development.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/environments/production.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/environments/production.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/environments/test.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/environments/test.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/application_controller_renderer.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/application_controller_renderer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/assets.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/backtrace_silencers.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/content_security_policy.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/content_security_policy.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/cookies_serializer.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/cookies_serializer.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/filter_parameter_logging.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/inflections.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/mime_types.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/initializers/wrap_parameters.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/locales/en.yml" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/locales/en.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/puma.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/puma.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/routes.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/routes.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/spring.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/spring.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/config/storage.yml" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/storage.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/db/seeds.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/db/seeds.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/lib/assets/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/lib/assets/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/lib/tasks/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/lib/tasks/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/log/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/log/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/package.json" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/404.html" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/422.html" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/422.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/500.html" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/500.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/apple-touch-icon-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/apple-touch-icon.png" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/favicon.ico" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/public/robots.txt" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/public/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/application_system_test_case.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/application_system_test_case.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/controllers/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/controllers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/controllers/welcome_controller_test.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/controllers/welcome_controller_test.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/fixtures/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/fixtures/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/fixtures/files/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/fixtures/files/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/helpers/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/helpers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/integration/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/integration/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/mailers/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/mailers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/models/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/models/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/system/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/system/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/test/test_helper.rb" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/test/test_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/tmp/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/tmp/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/d04/CheatSheet/vendor/.keep" afterPath="$PROJECT_DIR$/d04/ex01/NewCheatSheet/vendor/.keep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d03/ex01/ft_wikipedia" afterPath="$PROJECT_DIR$/d03/ex01/ft_wikipedia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ruby_onrails.iml" afterPath="$PROJECT_DIR$/.idea/ruby_onrails.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/.idea/workspace.xml" afterPath="$PROJECT_DIR$/rush00/Moviemon/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/app/assets/stylesheets/moviemon.scss" afterPath="$PROJECT_DIR$/rush00/Moviemon/app/assets/stylesheets/moviemon.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/app/controllers/moviemon_controller.rb" afterPath="$PROJECT_DIR$/rush00/Moviemon/app/controllers/moviemon_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/rush00/Moviemon/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/app/views/moviemon/titlescreen.erb" afterPath="$PROJECT_DIR$/rush00/Moviemon/app/views/moviemon/titlescreen.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/app/views/moviemon/worldmap.erb" afterPath="$PROJECT_DIR$/rush00/Moviemon/app/views/moviemon/worldmap.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rush00/Moviemon/config/routes.rb" afterPath="$PROJECT_DIR$/rush00/Moviemon/config/routes.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,118 +27,28 @@
     <favorites_list name="ruby_onrails" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49862385">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="help.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/help.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="555">
-                  <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="quick_search.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/quick_search.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="console.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/console.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="542">
-                  <caret line="37" column="7" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/stylesheets/application.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/application.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="welcome.coffee" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/welcome.coffee">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/config/routes.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/layouts/application.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="675">
-                  <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/controllers/application_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/Gemfile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="errors.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/errors.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ft_wikipedia.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/ft_wikipedia.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -341,7 +72,6 @@
         <option value="$PROJECT_DIR$/d03/ex00/deepthought/Gemfile" />
         <option value="$PROJECT_DIR$/d03/ex01/ft_wikipedia/Gemfile" />
         <option value="$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/errors.rb" />
-        <option value="$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/ft_wikipedia.rb" />
         <option value="$PROJECT_DIR$/d04/CheatSheet2/app/views/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/d04/CheatSheet2/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/d04/CheatSheet/test/controllers/welcome_controller_test.rb" />
@@ -385,6 +115,7 @@
         <option value="$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/d04/ex02/CheatSheet/db/migrate/20180528160220_my_datatable.rb" />
         <option value="$PROJECT_DIR$/d04/ex02/CheatSheet/Gemfile" />
+        <option value="$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/ft_wikipedia.rb" />
       </list>
     </option>
   </component>
@@ -414,61 +145,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_onrails2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_onrails2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
-              <item name="d00" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_onrails2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_onrails2" type="462c0819:PsiDirectoryNode" />
               <item name="d03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
-              <item name="d04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
-              <item name="d04" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_onrails2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_onrails2" type="462c0819:PsiDirectoryNode" />
+              <item name="d03" type="462c0819:PsiDirectoryNode" />
               <item name="ex01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
-              <item name="d04" type="462c0819:PsiDirectoryNode" />
-              <item name="ex02" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_onrails2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_onrails2" type="462c0819:PsiDirectoryNode" />
+              <item name="d03" type="462c0819:PsiDirectoryNode" />
+              <item name="ex01" type="462c0819:PsiDirectoryNode" />
+              <item name="ft_wikipedia" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
-              <item name="d04" type="462c0819:PsiDirectoryNode" />
-              <item name="ex02" type="462c0819:PsiDirectoryNode" />
-              <item name="CheatSheet" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_onrails2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_onrails2" type="462c0819:PsiDirectoryNode" />
+              <item name="d03" type="462c0819:PsiDirectoryNode" />
+              <item name="ex01" type="462c0819:PsiDirectoryNode" />
+              <item name="ft_wikipedia" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ruby_onrails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_onrails" type="462c0819:PsiDirectoryNode" />
-              <item name="d04" type="462c0819:PsiDirectoryNode" />
-              <item name="ex02" type="462c0819:PsiDirectoryNode" />
-              <item name="CheatSheet" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_onrails2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_onrails2" type="462c0819:PsiDirectoryNode" />
+              <item name="d03" type="462c0819:PsiDirectoryNode" />
+              <item name="ex01" type="462c0819:PsiDirectoryNode" />
+              <item name="ft_wikipedia" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -476,19 +199,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/d03/ex01" />
+      <recent name="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome" />
+      <recent name="$PROJECT_DIR$/d04/ex02" />
+      <recent name="$PROJECT_DIR$/d04/ex01" />
+      <recent name="$PROJECT_DIR$/d04/CheatSheet2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/d04/ex00" />
       <recent name="$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib" />
       <recent name="$PROJECT_DIR$/d03/ex00/deepthought/test" />
       <recent name="$PROJECT_DIR$/d03/ex00/deepthought/lib" />
       <recent name="$PROJECT_DIR$/d03/ex00/bin" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome" />
-      <recent name="$PROJECT_DIR$/d04/ex02" />
-      <recent name="$PROJECT_DIR$/d04/ex01" />
-      <recent name="$PROJECT_DIR$/d04/CheatSheet2" />
-      <recent name="$PROJECT_DIR$/d04" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -595,11 +318,17 @@
       <workItem from="1527494878986" duration="30000" />
       <workItem from="1527497031357" duration="3794000" />
       <workItem from="1527506841912" duration="8930000" />
+      <workItem from="1527770837650" duration="1113000" />
+      <workItem from="1527772619407" duration="342000" />
+      <workItem from="1527774234200" duration="3007000" />
+      <workItem from="1527784757748" duration="1601000" />
+      <workItem from="1527848224871" duration="26000" />
+      <workItem from="1527861971083" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61317000" />
+    <option name="totallyTimeSpent" value="67507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -613,23 +342,23 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13423352" sideWeight="0.49596775" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13899921" sideWeight="0.49596775" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21243116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3029111" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12946783" sideWeight="0.50403225" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -654,6 +383,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -662,21 +417,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d04/ex00/CheatSheet/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d04/CheatSheet2/HelloWorld/app/views/layouts/application.html.erb" />
-    <entry file="file://$PROJECT_DIR$/d04/ex00/CheatSheet/test/controllers/welcome_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d03/ex03/HelloWorld/config.ru">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -703,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="22" column="136" lean-forward="false" selection-start-line="22" selection-start-column="136" selection-end-line="22" selection-end-column="136" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
           <caret line="40" column="53" lean-forward="false" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="909">
           <caret line="88" column="18" lean-forward="false" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="114" column="32" lean-forward="false" selection-start-line="114" selection-start-column="32" selection-end-line="114" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="909">
           <caret line="93" column="18" lean-forward="false" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="909">
           <caret line="117" column="18" lean-forward="false" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,23 +590,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
           <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/views/welcome/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/d04/ex01/NewCheatSheet/app/views/welcome/index.html.erb" />
     <entry file="file://$PROJECT_DIR$/d04/ex01/NewCheatSheet/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="94" lean-forward="false" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,9 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <marker date="1527512075000" expanded="true" signature="70:442" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -926,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,22 +654,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/controllers/application_controller.rb">
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/quicksearch.html.erb" />
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/db/migrate/20180528160220_my_datatable.rb" />
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/console.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="37" column="7" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="7" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -978,10 +675,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/quicksearch.html.erb">
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -994,60 +699,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/application.js">
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/quick_search.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/quick_search.html.erb">
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/views/welcome/console.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="555">
+          <caret line="37" column="7" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="37" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="510">
+          <caret line="93" column="26" lean-forward="true" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/db/migrate/20180528160220_my_datatable.rb">
+    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/app/assets/javascripts/welcome.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d04/ex02/CheatSheet/Gemfile">
+    <entry file="file://$PROJECT_DIR$/d03/ex01/ft_wikipedia/bin/setup">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/ft_wikipedia.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d03/ex01/ft_wikipedia/lib/errors.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
